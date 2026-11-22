@@ -1,0 +1,353 @@
+ano,dimensao,categoria,valor_reais,quantidade
+2020,idade_pagador,Nao informado,43901,280
+2020,idade_pagador,Nao se aplica,64468648303,13263994
+2020,idade_pagador,até 19 anos,85708720,266127
+2020,idade_pagador,entre 20 e 29 anos,12069738267,40718538
+2020,idade_pagador,entre 30 e 39 anos,24565876736,51218314
+2020,idade_pagador,entre 40 e 49 anos,17292694499,29112935
+2020,idade_pagador,entre 50 e 59 anos,8429048829,12544303
+2020,idade_pagador,mais de 60 anos,6158813036,7291357
+2021,idade_pagador,Nao informado,61380270,473845
+2021,idade_pagador,Nao se aplica,2169872334979,889659094
+2021,idade_pagador,até 19 anos,6378448168,59714652
+2021,idade_pagador,entre 20 e 29 anos,434894805092,2163077733
+2021,idade_pagador,entre 30 e 39 anos,788647774700,2365428456
+2021,idade_pagador,entre 40 e 49 anos,601129474061,1504529446
+2021,idade_pagador,entre 50 e 59 anos,302980289489,653757125
+2021,idade_pagador,mais de 60 anos,218152536799,342458688
+2022,idade_pagador,Nao informado,185025938,1460671
+2022,idade_pagador,Nao se aplica,4768204701653,1979435466
+2022,idade_pagador,até 19 anos,33565125418,478717046
+2022,idade_pagador,entre 20 e 29 anos,943521466855,5731160943
+2022,idade_pagador,entre 30 e 39 anos,1498297941230,5743484469
+2022,idade_pagador,entre 40 e 49 anos,1179787084201,3854573120
+2022,idade_pagador,entre 50 e 59 anos,616340782253,1717911670
+2022,idade_pagador,mais de 60 anos,435050099676,846861697
+2023,idade_pagador,Nao informado,1091051493,7372969
+2023,idade_pagador,Nao se aplica,7699163510896,3786167838
+2023,idade_pagador,até 19 anos,98429025921,1536407372
+2023,idade_pagador,entre 20 e 29 anos,1368125164562,9747169763
+2023,idade_pagador,entre 30 e 39 anos,2062091846446,9799077454
+2023,idade_pagador,entre 40 e 49 anos,1682926845063,6768945267
+2023,idade_pagador,entre 50 e 59 anos,906712173191,3086229691
+2023,idade_pagador,mais de 60 anos,648408693011,1467983116
+2024,idade_pagador,Nao informado,645898114,3707228
+2024,idade_pagador,Nao se aplica,12636434901009,6574305022
+2024,idade_pagador,até 19 anos,162657321043,2641855917
+2024,idade_pagador,entre 20 e 29 anos,1813134482961,13806924340
+2024,idade_pagador,entre 30 e 39 anos,2782501767317,14767094087
+2024,idade_pagador,entre 40 e 49 anos,2395489299635,10845019257
+2024,idade_pagador,entre 50 e 59 anos,1331179624928,5205103811
+2024,idade_pagador,mais de 60 anos,999282207506,2468402975
+2025,idade_pagador,Nao informado,1216227667,7230634
+2025,idade_pagador,Nao se aplica,17871571550716,9105389439
+2025,idade_pagador,até 19 anos,183570795182,2975756219
+2025,idade_pagador,entre 20 e 29 anos,2058959749580,15873583247
+2025,idade_pagador,entre 30 e 39 anos,3291866798425,18104871589
+2025,idade_pagador,entre 40 e 49 anos,3035772399243,14291971046
+2025,idade_pagador,entre 50 e 59 anos,1750499028269,7287682016
+2025,idade_pagador,mais de 60 anos,1342877980159,3416555467
+2025,idade_pagador,null,72110098860,257076027
+2026,idade_pagador,Nao informado,267605769,4777135
+2026,idade_pagador,Nao se aplica,14918520917243,7475084897
+2026,idade_pagador,até 19 anos,171470325198,2673783487
+2026,idade_pagador,entre 20 e 29 anos,1524692334254,11680695221
+2026,idade_pagador,entre 30 e 39 anos,2368002216545,13310259348
+2026,idade_pagador,entre 40 e 49 anos,2211157950059,10782771963
+2026,idade_pagador,entre 50 e 59 anos,1296132086496,5636968778
+2026,idade_pagador,mais de 60 anos,1059852199054,2835788826
+2026,idade_pagador,null,22151719251,82721554
+2020,regiao_pagador,CENTRO-OESTE,14379357990,16033139
+2020,regiao_pagador,NORDESTE,19849268873,30322648
+2020,regiao_pagador,NORTE,7270484566,10999218
+2020,regiao_pagador,Nao informado,87842092,91671
+2020,regiao_pagador,SUDESTE,67630113709,77214703
+2020,regiao_pagador,SUL,23853505060,19754469
+2021,regiao_pagador,CENTRO-OESTE,474538957602,774330198
+2021,regiao_pagador,NORDESTE,687089021341,1812127410
+2021,regiao_pagador,NORTE,256008021610,678271572
+2021,regiao_pagador,Nao informado,3598127470,3970754
+2021,regiao_pagador,SUDESTE,2284816323337,3720498992
+2021,regiao_pagador,SUL,816066592198,989900113
+2022,regiao_pagador,CENTRO-OESTE,952822637690,1828442111
+2022,regiao_pagador,NORDESTE,1501032784606,5221873932
+2022,regiao_pagador,NORTE,572518523511,1940888528
+2022,regiao_pagador,Nao informado,7043750203,9955638
+2022,regiao_pagador,SUDESTE,4809037540767,8850794742
+2022,regiao_pagador,SUL,1632496990447,2501650131
+2023,regiao_pagador,CENTRO-OESTE,1389171412832,3075979904
+2023,regiao_pagador,NORDESTE,2282867557568,9655828540
+2023,regiao_pagador,NORTE,843329107276,3525124589
+2023,regiao_pagador,Nao informado,9457909979,22779314
+2023,regiao_pagador,SUDESTE,7437437932248,15427679863
+2023,regiao_pagador,SUL,2504684390679,4491961260
+2024,regiao_pagador,CENTRO-OESTE,2047832050275,4710745231
+2024,regiao_pagador,NORDESTE,3459317192080,15384134153
+2024,regiao_pagador,NORTE,1263803071827,5480166903
+2024,regiao_pagador,Nao informado,14451646237,31736604
+2024,regiao_pagador,SUDESTE,11629507331020,23837719827
+2024,regiao_pagador,SUL,3706414211073,6867909919
+2025,regiao_pagador,CENTRO-OESTE,2702157671069,6105553987
+2025,regiao_pagador,NORDESTE,4422340486091,19148229569
+2025,regiao_pagador,NORTE,1596968290798,6947977231
+2025,regiao_pagador,Nao informado,36653918683,57599439
+2025,regiao_pagador,SUDESTE,16007625650062,30331372686
+2025,regiao_pagador,SUL,4842698611397,8729382772
+2026,regiao_pagador,CENTRO-OESTE,2059151270761,4656684743
+2026,regiao_pagador,NORDESTE,3323301934677,14440988654
+2026,regiao_pagador,NORTE,1220874313362,5376658278
+2026,regiao_pagador,Nao informado,47401076174,48669674
+2026,regiao_pagador,SUDESTE,13188614452283,23269890150
+2026,regiao_pagador,SUL,3732904306614,6689959710
+2020,regiao_pagador_recebedor,CENTRO-OESTE>CENTRO-OESTE,12919100931,14680822
+2020,regiao_pagador_recebedor,CENTRO-OESTE>NORDESTE,191563459,308471
+2020,regiao_pagador_recebedor,CENTRO-OESTE>NORTE,154200153,181955
+2020,regiao_pagador_recebedor,CENTRO-OESTE>Nao informado,7582827,4623
+2020,regiao_pagador_recebedor,CENTRO-OESTE>SUDESTE,894708245,659462
+2020,regiao_pagador_recebedor,CENTRO-OESTE>SUL,212202374,197806
+2020,regiao_pagador_recebedor,NORDESTE>CENTRO-OESTE,169517194,254799
+2020,regiao_pagador_recebedor,NORDESTE>NORDESTE,18482643634,28490661
+2020,regiao_pagador_recebedor,NORDESTE>NORTE,133172720,172401
+2020,regiao_pagador_recebedor,NORDESTE>Nao informado,4952507,6753
+2020,regiao_pagador_recebedor,NORDESTE>SUDESTE,842934019,1198500
+2020,regiao_pagador_recebedor,NORDESTE>SUL,216048799,199534
+2020,regiao_pagador_recebedor,NORTE>CENTRO-OESTE,184347089,203817
+2020,regiao_pagador_recebedor,NORTE>NORDESTE,149116417,212878
+2020,regiao_pagador_recebedor,NORTE>NORTE,6531146323,10105120
+2020,regiao_pagador_recebedor,NORTE>Nao informado,4967098,5436
+2020,regiao_pagador_recebedor,NORTE>SUDESTE,299711605,338737
+2020,regiao_pagador_recebedor,NORTE>SUL,101196033,133230
+2020,regiao_pagador_recebedor,Nao informado>CENTRO-OESTE,4319204,5371
+2020,regiao_pagador_recebedor,Nao informado>NORDESTE,4961591,7617
+2020,regiao_pagador_recebedor,Nao informado>NORTE,1792286,3590
+2020,regiao_pagador_recebedor,Nao informado>Nao informado,43697725,37512
+2020,regiao_pagador_recebedor,Nao informado>SUDESTE,25033752,28497
+2020,regiao_pagador_recebedor,Nao informado>SUL,8037535,9084
+2020,regiao_pagador_recebedor,SUDESTE>CENTRO-OESTE,565975168,507158
+2020,regiao_pagador_recebedor,SUDESTE>NORDESTE,775771282,1199194
+2020,regiao_pagador_recebedor,SUDESTE>NORTE,228567580,254388
+2020,regiao_pagador_recebedor,SUDESTE>Nao informado,22486854,24524
+2020,regiao_pagador_recebedor,SUDESTE>SUDESTE,64995529405,74362610
+2020,regiao_pagador_recebedor,SUDESTE>SUL,1041783421,866829
+2020,regiao_pagador_recebedor,SUL>CENTRO-OESTE,182188958,154684
+2020,regiao_pagador_recebedor,SUL>NORDESTE,150718431,180369
+2020,regiao_pagador_recebedor,SUL>NORTE,81050003,111553
+2020,regiao_pagador_recebedor,SUL>Nao informado,6967069,7096
+2020,regiao_pagador_recebedor,SUL>SUDESTE,1124359836,902917
+2020,regiao_pagador_recebedor,SUL>SUL,22308220763,18397850
+2021,regiao_pagador_recebedor,CENTRO-OESTE>CENTRO-OESTE,404088219961,669463729
+2021,regiao_pagador_recebedor,CENTRO-OESTE>NORDESTE,9445422951,23761899
+2021,regiao_pagador_recebedor,CENTRO-OESTE>NORTE,7736514641,13315404
+2021,regiao_pagador_recebedor,CENTRO-OESTE>Nao informado,153731547,206348
+2021,regiao_pagador_recebedor,CENTRO-OESTE>SUDESTE,41482849555,52496351
+2021,regiao_pagador_recebedor,CENTRO-OESTE>SUL,11632218947,15086467
+2021,regiao_pagador_recebedor,NORDESTE>CENTRO-OESTE,8874072015,21919478
+2021,regiao_pagador_recebedor,NORDESTE>NORDESTE,612008064892,1627015088
+2021,regiao_pagador_recebedor,NORDESTE>NORTE,7475496983,14811893
+2021,regiao_pagador_recebedor,NORDESTE>Nao informado,185115155,466021
+2021,regiao_pagador_recebedor,NORDESTE>SUDESTE,48671726194,122714296
+2021,regiao_pagador_recebedor,NORDESTE>SUL,9874546102,25200634
+2021,regiao_pagador_recebedor,NORTE>CENTRO-OESTE,8614979039,16050137
+2021,regiao_pagador_recebedor,NORTE>NORDESTE,7347215487,19493134
+2021,regiao_pagador_recebedor,NORTE>NORTE,220564690466,599616866
+2021,regiao_pagador_recebedor,NORTE>Nao informado,101615634,319520
+2021,regiao_pagador_recebedor,NORTE>SUDESTE,14448742206,29951181
+2021,regiao_pagador_recebedor,NORTE>SUL,4930778777,12840734
+2021,regiao_pagador_recebedor,Nao informado>CENTRO-OESTE,250266813,248046
+2021,regiao_pagador_recebedor,Nao informado>NORDESTE,252091373,486888
+2021,regiao_pagador_recebedor,Nao informado>NORTE,87786928,290549
+2021,regiao_pagador_recebedor,Nao informado>Nao informado,923699052,1303822
+2021,regiao_pagador_recebedor,Nao informado>SUDESTE,1736561879,1223455
+2021,regiao_pagador_recebedor,Nao informado>SUL,347721425,417994
+2021,regiao_pagador_recebedor,SUDESTE>CENTRO-OESTE,38346704992,47658895
+2021,regiao_pagador_recebedor,SUDESTE>NORDESTE,47109269037,162476204
+2021,regiao_pagador_recebedor,SUDESTE>NORTE,13299841513,31077417
+2021,regiao_pagador_recebedor,SUDESTE>Nao informado,846545965,860061
+2021,regiao_pagador_recebedor,SUDESTE>SUDESTE,2120783797494,3391847117
+2021,regiao_pagador_recebedor,SUDESTE>SUL,64430164336,86579298
+2021,regiao_pagador_recebedor,SUL>CENTRO-OESTE,10424162505,10981381
+2021,regiao_pagador_recebedor,SUL>NORDESTE,7969852975,14872705
+2021,regiao_pagador_recebedor,SUL>NORTE,4739188262,7289793
+2021,regiao_pagador_recebedor,SUL>Nao informado,261119950,292924
+2021,regiao_pagador_recebedor,SUL>SUDESTE,60432055776,83198428
+2021,regiao_pagador_recebedor,SUL>SUL,732240212730,873264882
+2022,regiao_pagador_recebedor,CENTRO-OESTE>CENTRO-OESTE,805248438611,1508202066
+2022,regiao_pagador_recebedor,CENTRO-OESTE>NORDESTE,20973873239,64961858
+2022,regiao_pagador_recebedor,CENTRO-OESTE>NORTE,17551785652,33737917
+2022,regiao_pagador_recebedor,CENTRO-OESTE>Nao informado,306682716,526341
+2022,regiao_pagador_recebedor,CENTRO-OESTE>SUDESTE,82523259140,168497710
+2022,regiao_pagador_recebedor,CENTRO-OESTE>SUL,26218598333,52516219
+2022,regiao_pagador_recebedor,NORDESTE>CENTRO-OESTE,20631539039,72012848
+2022,regiao_pagador_recebedor,NORDESTE>NORDESTE,1323570578382,4495600966
+2022,regiao_pagador_recebedor,NORDESTE>NORTE,15538834494,43561308
+2022,regiao_pagador_recebedor,NORDESTE>Nao informado,410381321,1474541
+2022,regiao_pagador_recebedor,NORDESTE>SUDESTE,117756081065,473273212
+2022,regiao_pagador_recebedor,NORDESTE>SUL,23125370305,135951057
+2022,regiao_pagador_recebedor,NORTE>CENTRO-OESTE,18613355072,44775607
+2022,regiao_pagador_recebedor,NORTE>NORDESTE,17268115315,57072410
+2022,regiao_pagador_recebedor,NORTE>NORTE,491140753036,1660232402
+2022,regiao_pagador_recebedor,NORTE>Nao informado,261395188,1135655
+2022,regiao_pagador_recebedor,NORTE>SUDESTE,33578026426,118598583
+2022,regiao_pagador_recebedor,NORTE>SUL,11656878474,59073871
+2022,regiao_pagador_recebedor,Nao informado>CENTRO-OESTE,638403838,582895
+2022,regiao_pagador_recebedor,Nao informado>NORDESTE,531648169,1350720
+2022,regiao_pagador_recebedor,Nao informado>NORTE,327696091,1028933
+2022,regiao_pagador_recebedor,Nao informado>Nao informado,1402813594,3227697
+2022,regiao_pagador_recebedor,Nao informado>SUDESTE,3318058876,2658327
+2022,regiao_pagador_recebedor,Nao informado>SUL,825129635,1107066
+2022,regiao_pagador_recebedor,SUDESTE>CENTRO-OESTE,86744459251,112973281
+2022,regiao_pagador_recebedor,SUDESTE>NORDESTE,117059039171,341097573
+2022,regiao_pagador_recebedor,SUDESTE>NORTE,32366445332,55104140
+2022,regiao_pagador_recebedor,SUDESTE>Nao informado,2351965325,1982150
+2022,regiao_pagador_recebedor,SUDESTE>SUDESTE,4413184451700,8045881094
+2022,regiao_pagador_recebedor,SUDESTE>SUL,157331179988,293756504
+2022,regiao_pagador_recebedor,SUL>CENTRO-OESTE,24071991259,32844903
+2022,regiao_pagador_recebedor,SUL>NORDESTE,18842542348,51520354
+2022,regiao_pagador_recebedor,SUL>NORTE,11016518535,20781737
+2022,regiao_pagador_recebedor,SUL>Nao informado,553869813,760541
+2022,regiao_pagador_recebedor,SUL>SUDESTE,132472388783,283120949
+2022,regiao_pagador_recebedor,SUL>SUL,1445539679708,2112621647
+2023,regiao_pagador_recebedor,CENTRO-OESTE>CENTRO-OESTE,1142403679960,2237173227
+2023,regiao_pagador_recebedor,CENTRO-OESTE>NORDESTE,36001399462,129077270
+2023,regiao_pagador_recebedor,CENTRO-OESTE>NORTE,24965933864,53790590
+2023,regiao_pagador_recebedor,CENTRO-OESTE>Nao informado,500447346,933785
+2023,regiao_pagador_recebedor,CENTRO-OESTE>SUDESTE,140223381296,500113141
+2023,regiao_pagador_recebedor,CENTRO-OESTE>SUL,45076570904,154891891
+2023,regiao_pagador_recebedor,NORDESTE>CENTRO-OESTE,34841309645,133433523
+2023,regiao_pagador_recebedor,NORDESTE>NORDESTE,1966265763533,7452915600
+2023,regiao_pagador_recebedor,NORDESTE>NORTE,23379818033,81032258
+2023,regiao_pagador_recebedor,NORDESTE>Nao informado,626124776,2841538
+2023,regiao_pagador_recebedor,NORDESTE>SUDESTE,214599641502,1521669506
+2023,regiao_pagador_recebedor,NORDESTE>SUL,43154900078,463936115
+2023,regiao_pagador_recebedor,NORTE>CENTRO-OESTE,27371090077,74984239
+2023,regiao_pagador_recebedor,NORTE>NORDESTE,24529837700,118565639
+2023,regiao_pagador_recebedor,NORTE>NORTE,707375828252,2655078231
+2023,regiao_pagador_recebedor,NORTE>Nao informado,404488800,2147363
+2023,regiao_pagador_recebedor,NORTE>SUDESTE,63338088143,496914498
+2023,regiao_pagador_recebedor,NORTE>SUL,20309774304,177434619
+2023,regiao_pagador_recebedor,Nao informado>CENTRO-OESTE,706176636,990773
+2023,regiao_pagador_recebedor,Nao informado>NORDESTE,872458896,2412525
+2023,regiao_pagador_recebedor,Nao informado>NORTE,418180902,1772895
+2023,regiao_pagador_recebedor,Nao informado>Nao informado,2942233417,10197102
+2023,regiao_pagador_recebedor,Nao informado>SUDESTE,3235373396,5175546
+2023,regiao_pagador_recebedor,Nao informado>SUL,1283486732,2230473
+2023,regiao_pagador_recebedor,SUDESTE>CENTRO-OESTE,155568792002,218435481
+2023,regiao_pagador_recebedor,SUDESTE>NORDESTE,212566733266,779245127
+2023,regiao_pagador_recebedor,SUDESTE>NORTE,61201383458,142571252
+2023,regiao_pagador_recebedor,SUDESTE>Nao informado,4657219313,3426349
+2023,regiao_pagador_recebedor,SUDESTE>SUDESTE,6737632641142,13462850029
+2023,regiao_pagador_recebedor,SUDESTE>SUL,265811163066,821151625
+2023,regiao_pagador_recebedor,SUL>CENTRO-OESTE,41783841978,69145153
+2023,regiao_pagador_recebedor,SUL>NORDESTE,35764117526,162868853
+2023,regiao_pagador_recebedor,SUL>NORTE,18933684481,53882148
+2023,regiao_pagador_recebedor,SUL>Nao informado,906019236,1405026
+2023,regiao_pagador_recebedor,SUL>SUDESTE,249248389654,833864043
+2023,regiao_pagador_recebedor,SUL>SUL,2158048337805,3370796037
+2024,regiao_pagador_recebedor,CENTRO-OESTE>CENTRO-OESTE,1616895900582,3041047149
+2024,regiao_pagador_recebedor,CENTRO-OESTE>NORDESTE,64816044225,387614368
+2024,regiao_pagador_recebedor,CENTRO-OESTE>NORTE,40961216522,86983905
+2024,regiao_pagador_recebedor,CENTRO-OESTE>Nao informado,820120425,1408223
+2024,regiao_pagador_recebedor,CENTRO-OESTE>SUDESTE,250129052261,982566492
+2024,regiao_pagador_recebedor,CENTRO-OESTE>SUL,74209716260,211125094
+2024,regiao_pagador_recebedor,NORDESTE>CENTRO-OESTE,78070379377,281653771
+2024,regiao_pagador_recebedor,NORDESTE>NORDESTE,2871453949860,11248597621
+2024,regiao_pagador_recebedor,NORDESTE>NORTE,43650534908,208056787
+2024,regiao_pagador_recebedor,NORDESTE>Nao informado,1163258238,4268960
+2024,regiao_pagador_recebedor,NORDESTE>SUDESTE,382713385655,3005826821
+2024,regiao_pagador_recebedor,NORDESTE>SUL,82265684042,635730193
+2024,regiao_pagador_recebedor,NORTE>CENTRO-OESTE,45611119990,125925762
+2024,regiao_pagador_recebedor,NORTE>NORDESTE,47152248183,438306387
+2024,regiao_pagador_recebedor,NORTE>NORTE,1026538371845,3715919572
+2024,regiao_pagador_recebedor,NORTE>Nao informado,602730880,3101258
+2024,regiao_pagador_recebedor,NORTE>SUDESTE,109301728550,955804962
+2024,regiao_pagador_recebedor,NORTE>SUL,34596872380,241108962
+2024,regiao_pagador_recebedor,Nao informado>CENTRO-OESTE,924097196,1847612
+2024,regiao_pagador_recebedor,Nao informado>NORDESTE,1373115720,5005310
+2024,regiao_pagador_recebedor,Nao informado>NORTE,614444143,2794680
+2024,regiao_pagador_recebedor,Nao informado>Nao informado,3211212700,7710337
+2024,regiao_pagador_recebedor,Nao informado>SUDESTE,6377888070,10212142
+2024,regiao_pagador_recebedor,Nao informado>SUL,1950888408,4166523
+2024,regiao_pagador_recebedor,SUDESTE>CENTRO-OESTE,340646461556,439644114
+2024,regiao_pagador_recebedor,SUDESTE>NORDESTE,355457573755,1930016231
+2024,regiao_pagador_recebedor,SUDESTE>NORTE,102096294835,304544874
+2024,regiao_pagador_recebedor,SUDESTE>Nao informado,10420900411,5679484
+2024,regiao_pagador_recebedor,SUDESTE>SUDESTE,10392116283307,19968709246
+2024,regiao_pagador_recebedor,SUDESTE>SUL,428769817157,1189125878
+2024,regiao_pagador_recebedor,SUL>CENTRO-OESTE,94058774848,120236453
+2024,regiao_pagador_recebedor,SUL>NORDESTE,66230906043,444598698
+2024,regiao_pagador_recebedor,SUL>NORTE,28243389105,81046040
+2024,regiao_pagador_recebedor,SUL>Nao informado,1704573936,2195201
+2024,regiao_pagador_recebedor,SUL>SUDESTE,427385204864,1580433074
+2024,regiao_pagador_recebedor,SUL>SUL,3088791362276,4639400453
+2025,regiao_pagador_recebedor,CENTRO-OESTE>CENTRO-OESTE,2090168293262,3783126413
+2025,regiao_pagador_recebedor,CENTRO-OESTE>NORDESTE,88175604493,542690608
+2025,regiao_pagador_recebedor,CENTRO-OESTE>NORTE,54922328473,126303386
+2025,regiao_pagador_recebedor,CENTRO-OESTE>Nao informado,1957407904,2177740
+2025,regiao_pagador_recebedor,CENTRO-OESTE>SUDESTE,366305130507,1339841327
+2025,regiao_pagador_recebedor,CENTRO-OESTE>SUL,100628906430,311414513
+2025,regiao_pagador_recebedor,NORDESTE>CENTRO-OESTE,122290100369,638255452
+2025,regiao_pagador_recebedor,NORDESTE>NORDESTE,3612717338275,13695924168
+2025,regiao_pagador_recebedor,NORDESTE>NORTE,55150509909,227308769
+2025,regiao_pagador_recebedor,NORDESTE>Nao informado,2283680531,5495439
+2025,regiao_pagador_recebedor,NORDESTE>SUDESTE,531299761627,3833422625
+2025,regiao_pagador_recebedor,NORDESTE>SUL,98599095380,747823116
+2025,regiao_pagador_recebedor,NORTE>CENTRO-OESTE,63787087218,288013616
+2025,regiao_pagador_recebedor,NORTE>NORDESTE,58293967232,523428487
+2025,regiao_pagador_recebedor,NORTE>NORTE,1277270609368,4592899614
+2025,regiao_pagador_recebedor,NORTE>Nao informado,1146158066,3505315
+2025,regiao_pagador_recebedor,NORTE>SUDESTE,153395800414,1205577500
+2025,regiao_pagador_recebedor,NORTE>SUL,43074668499,334552699
+2025,regiao_pagador_recebedor,Nao informado>CENTRO-OESTE,2196357385,2945219
+2025,regiao_pagador_recebedor,Nao informado>NORDESTE,2117793144,7431944
+2025,regiao_pagador_recebedor,Nao informado>NORTE,1054201033,3471181
+2025,regiao_pagador_recebedor,Nao informado>Nao informado,5961650352,12269762
+2025,regiao_pagador_recebedor,Nao informado>SUDESTE,21328859409,19515464
+2025,regiao_pagador_recebedor,Nao informado>SUL,3995057358,11965869
+2025,regiao_pagador_recebedor,SUDESTE>CENTRO-OESTE,503425822286,1014748260
+2025,regiao_pagador_recebedor,SUDESTE>NORDESTE,476124324266,2635060844
+2025,regiao_pagador_recebedor,SUDESTE>NORTE,139324774346,376886670
+2025,regiao_pagador_recebedor,SUDESTE>Nao informado,31221992720,8784145
+2025,regiao_pagador_recebedor,SUDESTE>SUDESTE,14285638700292,24826396428
+2025,regiao_pagador_recebedor,SUDESTE>SUL,571890036153,1469496339
+2025,regiao_pagador_recebedor,SUL>CENTRO-OESTE,146314065649,325157305
+2025,regiao_pagador_recebedor,SUL>NORDESTE,83945664290,631247540
+2025,regiao_pagador_recebedor,SUL>NORTE,38006174679,105584276
+2025,regiao_pagador_recebedor,SUL>Nao informado,5325744038,3474725
+2025,regiao_pagador_recebedor,SUL>SUDESTE,624155520861,2036105334
+2025,regiao_pagador_recebedor,SUL>SUL,3944951441880,5627813592
+2026,regiao_pagador_recebedor,CENTRO-OESTE>CENTRO-OESTE,1566416745512,2776515833
+2026,regiao_pagador_recebedor,CENTRO-OESTE>NORDESTE,66063712233,395126404
+2026,regiao_pagador_recebedor,CENTRO-OESTE>NORTE,43838481980,100301131
+2026,regiao_pagador_recebedor,CENTRO-OESTE>Nao informado,1717938172,1854818
+2026,regiao_pagador_recebedor,CENTRO-OESTE>SUDESTE,300273299777,1135324654
+2026,regiao_pagador_recebedor,CENTRO-OESTE>SUL,80841093087,247561903
+2026,regiao_pagador_recebedor,NORDESTE>CENTRO-OESTE,95996889891,510523881
+2026,regiao_pagador_recebedor,NORDESTE>NORDESTE,2670075386907,9998592033
+2026,regiao_pagador_recebedor,NORDESTE>NORTE,39791251763,161667401
+2026,regiao_pagador_recebedor,NORDESTE>Nao informado,1856044231,4170017
+2026,regiao_pagador_recebedor,NORDESTE>SUDESTE,441445483316,3189793810
+2026,regiao_pagador_recebedor,NORDESTE>SUL,74136878569,576241512
+2026,regiao_pagador_recebedor,NORTE>CENTRO-OESTE,51264810351,235060760
+2026,regiao_pagador_recebedor,NORTE>NORDESTE,44448053164,368710366
+2026,regiao_pagador_recebedor,NORTE>NORTE,960394322838,3433753438
+2026,regiao_pagador_recebedor,NORTE>Nao informado,894255350,2623351
+2026,regiao_pagador_recebedor,NORTE>SUDESTE,130460206309,1067555393
+2026,regiao_pagador_recebedor,NORTE>SUL,33412665350,268954970
+2026,regiao_pagador_recebedor,Nao informado>CENTRO-OESTE,1821161421,2623218
+2026,regiao_pagador_recebedor,Nao informado>NORDESTE,2052940830,6312269
+2026,regiao_pagador_recebedor,Nao informado>NORTE,1075950117,2733339
+2026,regiao_pagador_recebedor,Nao informado>Nao informado,7340275113,8587032
+2026,regiao_pagador_recebedor,Nao informado>SUDESTE,30132586662,18320488
+2026,regiao_pagador_recebedor,Nao informado>SUL,4978162031,10093328
+2026,regiao_pagador_recebedor,SUDESTE>CENTRO-OESTE,415485176615,871149085
+2026,regiao_pagador_recebedor,SUDESTE>NORDESTE,366427052857,1940558650
+2026,regiao_pagador_recebedor,SUDESTE>NORTE,112363050727,297094435
+2026,regiao_pagador_recebedor,SUDESTE>Nao informado,32827881621,7963597
+2026,regiao_pagador_recebedor,SUDESTE>SUDESTE,11795298920521,19012382341
+2026,regiao_pagador_recebedor,SUDESTE>SUL,466212369941,1140742042
+2026,regiao_pagador_recebedor,SUL>CENTRO-OESTE,132421185146,286107622
+2026,regiao_pagador_recebedor,SUL>NORDESTE,65964002880,507705878
+2026,regiao_pagador_recebedor,SUL>NORTE,30998090739,96408912
+2026,regiao_pagador_recebedor,SUL>Nao informado,8487082320,3034791
+2026,regiao_pagador_recebedor,SUL>SUDESTE,522210858826,1725585747
+2026,regiao_pagador_recebedor,SUL>SUL,2972823086703,4071116760
